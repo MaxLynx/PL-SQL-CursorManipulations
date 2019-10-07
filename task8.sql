@@ -1,5 +1,3 @@
-CREATE OR REPLACE DIRECTORY LOG AS 'D:\login';
-GRANT WRITE ON DIRECTORY LOG TO PUBLIC; 
 SET SERVEROUTPUT ON FORMAT WRAPPED
 CREATE OR REPLACE PROCEDURE make_report
 IS
@@ -24,15 +22,12 @@ subject_id char(4);
 subject_name varchar(180);
 teacher_name varchar2(15);
 teacher_surname varchar2(30);
-output UTL_FILE.FILE_TYPE;
 BEGIN  
-    output := UTL_FILE.FOPEN('LOG', 'login.txt' , 'W');
     OPEN outer_cur;
     LOOP
     FETCH outer_cur INTO tmp1;
     EXIT WHEN outer_cur%NOTFOUND;
     DBMS_OUTPUT.PUT_LINE('Akademicky rok: ' || tmp1 || '/' || (tmp1+1));
-    UTL_FILE.PUT_LINE(output , 'Akademicky rok: ' || tmp1 || '/' || (tmp1+1));
         ind := 0;
         OPEN inner_cur(tmp1);
         LOOP
@@ -40,8 +35,6 @@ BEGIN
         EXIT WHEN inner_cur%NOTFOUND;
         ind := ind + 1;
             DBMS_OUTPUT.PUT_LINE('.     Predmet:' || ind || '     ' || subject_id || '       ' || rpad(subject_name, 60)
-            || ' Garant: ' || teacher_name || ' ' || teacher_surname);
-            UTL_FILE.PUT_LINE(output , '.     Predmet:' || ind || '     ' || subject_id || '       ' || rpad(subject_name, 60)
             || ' Garant: ' || teacher_name || ' ' || teacher_surname);
             inner_ind := 0;
             FOR tmp3 in 
@@ -64,16 +57,12 @@ BEGIN
                 DBMS_OUTPUT.PUT_LINE('.     ' || inner_ind || '     ' 
                 || rpad(CONCAT(tmp3.meno, CONCAT(' ', tmp3.priezvisko)), 30)
                 || '  ' || tmp3.os_cislo || ' ' || tmp3.grade || '  ' || tmp3.title);
-                UTL_FILE.PUT_LINE(output , '.     ' || inner_ind || '     ' 
-                || rpad(CONCAT(tmp3.meno, CONCAT(' ', tmp3.priezvisko)), 30)
-                || '  ' || tmp3.os_cislo || ' ' || tmp3.grade || '  ' || tmp3.title);
             END LOOP;
             
         END LOOP;
         CLOSE inner_cur;
     END LOOP;
     CLOSE outer_cur;
-    UTL_FILE.FCLOSE(output);
 END;
 /
 BEGIN

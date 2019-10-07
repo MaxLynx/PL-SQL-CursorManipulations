@@ -1,0 +1,689 @@
+Akademicky rok: 1999/2000
+.     Predmet:1     BF01       Algebra                                                      Garant: Rudolf Kodnar
+.     1     Peter Kapustny                  550020    BC.
+.     Predmet:2     BF09       Praktikum z matematiky                                       Garant: Elena Farkasova
+.     1     Peter Kapustny                  550020 E  BC.
+Akademicky rok: 2000/2001
+.     Predmet:1     BE08       Makroekonomia                                                Garant: Stefan Hitmar
+.     1     Martin Kluciar                  501096    BC.
+.     Predmet:2     BL13       Telesna vychova 5                                            Garant:   externistka
+.     1     Marek Durica                    501555    BC.
+.     Predmet:3     BF01       Algebra                                                      Garant: Rudolf Kodnar
+.     1     Peter Kapustny                  550020 E  BC.
+.     Predmet:4     II08       Diskretna simulacia                                          Garant: Jiri Slavik
+.     1     Jan Krnac                       501201    BC.
+Akademicky rok: 2001/2002
+.     Predmet:1     BI30       Jazyk C++                                                    Garant: Karol Matiasko
+.     1     Peter Kapustny                  550020 E  BC.
+.     Predmet:2     II07       Databazove systemy 2                                         Garant: Stefan Kovalik
+.     1     Zuzana Slamova                  550123    BC.
+.     Predmet:3     IA07       Prognostika                                                  Garant: Rudolf Kodnar
+.     1     Zuzana Slamova                  550123 C  BC.
+.     Predmet:4     BI01       Zaklady informatiky 1                                        Garant: Stefan Kovalik
+.     1     Frantisek Murgas                501381 D  BC.
+.     2     Marek Durica                    501402 B  BC.
+.     Predmet:5     BI06       Zaklady databazovych systemov                                Garant: Stefan Kovalik
+.     1     Marek Durica                    501555    BC.
+Akademicky rok: 2002/2003
+.     Predmet:1     BE01       Zaklady ekonomickej teorie                                   Garant: Juraj Dubovec
+.     1     Lubos Lehotsky                  550807 B  BC.
+.     Predmet:2     BE08       Makroekonomia                                                Garant: Stefan Hitmar
+.     1     Martin Kluciar                  501103 A  BC.
+.     Predmet:3     BI11       Praktikum z programovania 1.                                 Garant:   externistka
+.     1     Marek Durica                    501402 C  BC.
+.     Predmet:4     BS01       Operacne systemy                                             Garant: Penka Martincova
+.     1     Lubos Lehotsky                  550807 A  BC.
+.     Predmet:5     IN07       Prenos signalu                                               Garant: Jozef Juricek
+.     1     Erika Lipovska                  550698    BC.
+.     Predmet:6     II17       Kryptografia a bezpecnost                                    Garant: Peter Varsa
+.     1     Zuzana Slamova                  550123 D  BC.
+.     Predmet:7     BI10       Java - jazyk a vyvoj aplikacii                               Garant: Karol Matiasko
+.     1     Frantisek Murgas                550945    BC.
+.     2     Marek Durica                    501402 C  BC.
+.     Predmet:8     II14       Pocitacova grafika                                           Garant: Petr Cenek
+.     1     Rudolf Kovac                    550127    BC.
+.     Predmet:9     IM16       Marketingovy vyskum                                          Garant: Katarina Zabovska
+.     1     Jan Krnac                       501201 C  BC.
+.     Predmet:10     BA12       Grafy a kombinatorika                                        Garant: Helena Froncova
+.     1     Juraj Papun                     501345 C  BC.
+.     Predmet:11     BL22       Jazyk nemecky 4.                                             Garant:   externistka
+.     1     Martin Kluciar                  501103 C  BC.
+.     Predmet:12     BI06       Zaklady databazovych systemov                                Garant: Stefan Kovalik
+.     1     Frantisek Murgas                501381 A  BC.
+Akademicky rok: 2003/2004
+.     Predmet:1     BE01       Zaklady ekonomickej teorie                                   Garant: Juraj Dubovec
+.     Predmet:2     BL13       Telesna vychova 5                                            Garant:   externistka
+.     1     Marek Durica                    501402    BC.
+.     Predmet:3     II08       Diskretna simulacia                                          Garant: Jiri Slavik
+.     1     Jan Krnac                       501201    BC.
+.     Predmet:4     BL02       Cudzi jazyk                                                  Garant:   externistka
+.     1     Lubos Lehotsky                  550807    BC.
+.     Predmet:5     IN09       Optimalizacia sieti                                          Garant: Petr Cenek
+.     1     Rudolf Kovac                    550127 C  BC.
+.     Predmet:6     IS04       Analyza procesov                                             Garant: Jozef Juricek
+.     1     Juraj Papun                     501345 D  BC.
+.     Predmet:7     BF07       Elektronika                                                  Garant: Peter Gubis
+.     1     Martin Kluciar                  501103    BC.
+.     Predmet:8     BI06       Zaklady databazovych systemov                                Garant: Stefan Kovalik
+.     1     Frantisek Murgas                550945 C  BC.
+.     2     Lubos Lehotsky                  550807    BC.
+Akademicky rok: 2004/2005
+.     Predmet:1     IS07       Distribuovane systemy                                        Garant: Katarina Bachrata
+.     1     Jan Krnac                       501201 E  BC.
+.     Predmet:2     BH22       Teoria automatickeho riadenia 2                              Garant: Jozef Juricek
+.     1     Branislav Balaz                 501319 E  BC.
+.     Predmet:3     BF07       Elektronika                                                  Garant: Peter Gubis
+.     1     Martin Kluciar                  501103 E  BC.
+.     Predmet:4     BN10       Komunikacne technologie                                      Garant: Jozef Juricek
+.     1     Frantisek Murgas                550945 D  BC.
+Akademicky rok: 2005/2006
+.     Predmet:1     BI29       Zaklady programovania vo Windows                             Garant: Stefan Kovalik
+.     1     Jaroslav Cipak                  500425    BC.
+.     2     Robert Mazur                    500427 E  BC.
+.     Predmet:2     BI30       Jazyk C++                                                    Garant: Karol Matiasko
+.     1     Jaroslav Cipak                  500425    BC.
+.     Predmet:3     BL13       Telesna vychova 5                                            Garant:   externistka
+.     1     Jaroslav Cipak                  500425    BC.
+.     Predmet:4     BN05       Pocitacove siete 3                                           Garant: Martin Klimo
+.     1     Lubomir Kominek                 500424    BC.
+.     2     Zdenko Olzbut                   500432 B  BC.
+.     3     Juraj Tuma                      500433    BC.
+.     Predmet:5     BS10       Vyvoj aplikacii pre internet a intranet                      Garant: Peter Varsa
+.     1     Martin Skuta                    500422 E  BC.
+.     2     Jaroslav Cipak                  500425 E  BC.
+.     3     Peter Minarik                   500429    BC.
+.     Predmet:6     C055       Medzikulturna komunikacia                                    Garant: Jozef Striss
+.     1     Peter Stelbasky                 500428    BC.
+.     Predmet:7     II07       Databazove systemy 2                                         Garant: Stefan Kovalik
+.     1     Martin Skuta                    500422    BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424 D  BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426    BC.
+.     6     Robert Mazur                    500427    BC.
+.     7     Peter Stelbasky                 500428    BC.
+.     8     Peter Minarik                   500429 E  BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432    BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:8     II13       Pokrocile objektove technologie                              Garant: Stefan Kovalik
+.     1     Martin Skuta                    500422 D  BC.
+.     2     Alojz Gazo                      500426    BC.
+.     3     Peter Minarik                   500429    BC.
+.     Predmet:9     II21       Zaklady programovania v jadre operacneho systemu             Garant: Stefan Kovalik
+.     1     Alojz Gazo                      500426 B  BC.
+.     Predmet:10     IN10       Teoria informacnych sieti                                    Garant: Stefan Kovalik
+.     1     Jozef Brna                      500423    BC.
+.     2     Lubomir Kominek                 500424 D  BC.
+.     3     Jaroslav Cipak                  500425 E  BC.
+.     4     Alojz Gazo                      500426 D  BC.
+.     5     Robert Mazur                    500427 C  BC.
+.     6     Peter Stelbasky                 500428 D  BC.
+.     7     Peter Minarik                   500429 D  BC.
+.     8     Zoltan Sim                      500431    BC.
+.     9     Zdenko Olzbut                   500432 D  BC.
+.     10     Juraj Tuma                      500433    BC.
+.     Predmet:11     BL03       Pravo 1.                                                     Garant:   externistka
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:12     C053       Opticke komunikacie                                          Garant: Petr Ivaniga
+.     1     Peter Stelbasky                 500428 B  BC.
+.     Predmet:13     IN07       Prenos signalu                                               Garant: Jozef Juricek
+.     1     Lubomir Kominek                 500424 E  BC.
+.     2     Jaroslav Cipak                  500425 E  BC.
+.     3     Peter Stelbasky                 500428 D  BC.
+.     Predmet:14     BL14       Telesna vychova 6                                            Garant: Elena Farkasova
+.     1     Branislav Balaz                 501319 C  BC.
+.     2     Jaroslav Cipak                  500425    BC.
+.     Predmet:15     BN04       Pocitacove siete 2                                           Garant: Martin Klimo
+.     1     Robert Mazur                    500427 C  BC.
+.     Predmet:16     BI33       Tabulkove procesory                                          Garant: Miroslav Benedikovic
+.     1     Lubomir Kominek                 500424 C  BC.
+.     2     Jaroslav Cipak                  500425 B  BC.
+.     3     Zdenko Olzbut                   500432 C  BC.
+.     Predmet:17     BS07       Multimedialne informacne systemy                             Garant: Peter Varsa
+.     1     Jozef Brna                      500423    BC.
+.     2     Peter Stelbasky                 500428 C  BC.
+.     3     Peter Minarik                   500429    BC.
+.     Predmet:18     C054       Bezdrotove aplikacie                                         Garant: Petr Ivaniga
+.     1     Peter Stelbasky                 500428 A  BC.
+.     Predmet:19     IA02       Teoria informacie                                            Garant: Petr Ivaniga
+.     1     Martin Skuta                    500422 D  BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424 A  BC.
+.     4     Jaroslav Cipak                  500425 B  BC.
+.     5     Alojz Gazo                      500426 D  BC.
+.     6     Robert Mazur                    500427    BC.
+.     7     Peter Stelbasky                 500428 D  BC.
+.     8     Peter Minarik                   500429 E  BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432 D  BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:20     II03       Databazove jazyky                                            Garant: Karol Matiasko
+.     1     Martin Skuta                    500422 E  BC.
+.     2     Robert Mazur                    500427 C  BC.
+.     3     Zdenko Olzbut                   500432    BC.
+.     Predmet:21     IS03       Architektury informacnych systemov                           Garant: Anton Kremen
+.     1     Martin Skuta                    500422 C  BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424 D  BC.
+.     4     Jaroslav Cipak                  500425 C  BC.
+.     5     Alojz Gazo                      500426 D  BC.
+.     6     Robert Mazur                    500427 D  BC.
+.     7     Peter Stelbasky                 500428 B  BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431 B  BC.
+.     10     Zdenko Olzbut                   500432 C  BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:22     BI01       Zaklady informatiky 1                                        Garant: Stefan Kovalik
+.     1     Branislav Balaz                 501567 C  BC.
+.     Predmet:23     BI10       Java - jazyk a vyvoj aplikacii                               Garant: Karol Matiasko
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:24     BI17       Databazove jazyky a aplikacie                                Garant: Stefan Kovalik
+.     1     Peter Stelbasky                 500428 D  BC.
+.     Predmet:25     BI31       Databazove systemy - Access                                  Garant: Stefan Kovalik
+.     1     Jaroslav Cipak                  500425    BC.
+.     2     Peter Minarik                   500429    BC.
+.     Predmet:26     BL04       Pravo 2.                                                     Garant:   externistka
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:27     BN03       Pocitacove siete 1                                           Garant: Martin Klimo
+.     1     Robert Mazur                    500427 B  BC.
+.     Predmet:28     BS15       Implementacie UNIXu-LINUX                                    Garant: Karol Matiasko
+.     1     Robert Mazur                    500427 B  BC.
+.     2     Peter Minarik                   500429    BC.
+.     Predmet:29     C052       Siete novych generacii                                       Garant: Petr Ivaniga
+.     1     Peter Stelbasky                 500428 B  BC.
+.     Predmet:30     II08       Diskretna simulacia                                          Garant: Jiri Slavik
+.     1     Martin Skuta                    500422 E  BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424    BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426 C  BC.
+.     6     Robert Mazur                    500427 D  BC.
+.     7     Peter Stelbasky                 500428    BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432    BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:31     II12       Databazy a ziskanie znalosti                                 Garant: Karol Matiasko
+.     1     Martin Skuta                    500422 E  BC.
+.     2     Lubomir Kominek                 500424    BC.
+.     3     Jaroslav Cipak                  500425    BC.
+.     4     Peter Stelbasky                 500428 E  BC.
+.     5     Peter Minarik                   500429    BC.
+.     6     Zdenko Olzbut                   500432    BC.
+.     Predmet:32     II15       Udajove struktury 2                                          Garant: Peter Varsa
+.     1     Martin Skuta                    500422 C  BC.
+.     2     Jozef Brna                      500423 B  BC.
+.     3     Lubomir Kominek                 500424    BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426 B  BC.
+.     6     Robert Mazur                    500427    BC.
+.     7     Peter Stelbasky                 500428    BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432    BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:33     IN08       Komunikacne systemy                                          Garant: Peter Gubis
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:34     BI02       Zaklady informatiky 2                                        Garant: Stefan Kovalik
+.     1     Branislav Balaz                 501567 C  BC.
+.     Predmet:35     BI07       Algoritmy a vypoctova zlozitost                              Garant: Stefan Kovalik
+.     1     Jozef Brna                      500423 F  BC.
+.     Predmet:36     IM15       Medzinarodny marketing                                       Garant: Katarina Zabovska
+.     1     Jaroslav Cipak                  500425 C  BC.
+.     Predmet:37     IN09       Optimalizacia sieti                                          Garant: Petr Cenek
+.     1     Martin Skuta                    500422 D  BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424 E  BC.
+.     4     Jaroslav Cipak                  500425 E  BC.
+.     5     Alojz Gazo                      500426    BC.
+.     6     Robert Mazur                    500427 E  BC.
+.     7     Peter Stelbasky                 500428 E  BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432 D  BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:38     IP02       Projekt 1                                                    Garant:   ?
+.     1     Martin Skuta                    500422    BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424    BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426    BC.
+.     6     Robert Mazur                    500427    BC.
+.     7     Peter Stelbasky                 500428    BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432    BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:39     IS04       Analyza procesov                                             Garant: Jozef Juricek
+.     1     Jozef Brna                      500423    BC.
+.     2     Lubomir Kominek                 500424 C  BC.
+.     3     Robert Mazur                    500427 C  BC.
+.     4     Peter Stelbasky                 500428 C  BC.
+.     5     Peter Minarik                   500429 B  BC.
+.     6     Zoltan Sim                      500431    BC.
+.     7     Zdenko Olzbut                   500432 B  BC.
+.     8     Juraj Tuma                      500433    BC.
+.     Predmet:40     IS06       Geograficke informacne systemy                               Garant: Petr Cenek
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:41     BI32       Kompilatory                                                  Garant: Miroslav Benedikovic
+.     1     Alojz Gazo                      500426    BC.
+.     Predmet:42     BL11       Telesna vychova 3.                                           Garant: Elena Farkasova
+.     1     Branislav Balaz                 501319    BC.
+.     Predmet:43     BM06       Marketingova komunikacia                                     Garant: Michal Kaukic
+.     1     Jaroslav Cipak                  500425 C  BC.
+.     Predmet:44     BN06       Pocitacove siete 4                                           Garant: Martin Klimo
+.     1     Lubomir Kominek                 500424    BC.
+.     2     Zdenko Olzbut                   500432 A  BC.
+.     3     Juraj Tuma                      500433    BC.
+.     Predmet:45     BS11       Unix - vyvojove prostredie                                   Garant: Karol Matiasko
+.     1     Alojz Gazo                      500426    BC.
+.     Predmet:46     IP03       Projekt 2                                                    Garant:   ?
+.     1     Martin Skuta                    500422    BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424    BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426    BC.
+.     6     Robert Mazur                    500427    BC.
+.     7     Peter Stelbasky                 500428    BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432    BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:47     IP07       Projektovanie sieti                                          Garant: Stefan Kovalik
+.     1     Jozef Brna                      500423    BC.
+.     2     Jaroslav Cipak                  500425    BC.
+.     3     Peter Stelbasky                 500428    BC.
+.     4     Peter Minarik                   500429    BC.
+.     5     Zoltan Sim                      500431 B  BC.
+.     6     Zdenko Olzbut                   500432 A  BC.
+.     7     Juraj Tuma                      500433    BC.
+.     Predmet:48     BA14       Pravdepodobnost a statistika 2                               Garant: Stefan Kovalik
+.     1     Martin Skuta                    500422 D  BC.
+.     2     Jozef Brna                      500423    BC.
+.     3     Lubomir Kominek                 500424 E  BC.
+.     4     Jaroslav Cipak                  500425 E  BC.
+.     5     Alojz Gazo                      500426 A  BC.
+.     6     Robert Mazur                    500427 E  BC.
+.     7     Peter Stelbasky                 500428 B  BC.
+.     8     Peter Minarik                   500429    BC.
+.     9     Zoltan Sim                      500431    BC.
+.     10     Zdenko Olzbut                   500432 B  BC.
+.     11     Juraj Tuma                      500433    BC.
+.     Predmet:49     BE13       Marketing 1                                                  Garant: Stefan Hitmar
+.     1     Branislav Balaz                 501319 D  BC.
+.     Predmet:50     BE14       Male a stredne podnikanie                                    Garant: Stefan Kovalik
+.     1     Peter Stelbasky                 500428 D  BC.
+.     2     Zoltan Sim                      500431 D  BC.
+.     Predmet:51     BI28       Jazyk UML                                                    Garant: Emil Krsak
+.     1     Jaroslav Cipak                  500425 D  BC.
+.     2     Peter Minarik                   500429    BC.
+Akademicky rok: 2006/2007
+.     Predmet:1     BI11       Praktikum z programovania 1.                                 Garant:   externistka
+.     1     Branislav Balaz                 501567 C  BC.
+.     Predmet:2     BS10       Vyvoj aplikacii pre internet a intranet                      Garant: Peter Varsa
+.     1     Peter Stelbasky                 500428    BC.
+.     2     Zoltan Sim                      500431 F  BC.
+.     Predmet:3     IE07       Medzinarodny obchod                                          Garant: Stefan Hitmar
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:4     II07       Databazove systemy 2                                         Garant: Stefan Kovalik
+.     1     Dusan Bucany                    500439 F  BC.
+.     2     Martin Skuta                    500422 C  BC.
+.     3     Jaroslav Cipak                  500425    BC.
+.     4     Alojz Gazo                      500426 D  BC.
+.     5     Robert Mazur                    500427 C  BC.
+.     6     Peter Stelbasky                 500428 D  BC.
+.     7     Zdenko Olzbut                   500432 D  BC.
+.     8     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:5     II13       Pokrocile objektove technologie                              Garant: Stefan Kovalik
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:6     IN10       Teoria informacnych sieti                                    Garant: Stefan Kovalik
+.     1     Peter Korenciak                 500430 F  BC.
+.     Predmet:7     IP05       Prax                                                         Garant:   ?
+.     1     Martin Skuta                    500422    BC.
+.     2     Lubomir Kominek                 500424 F  BC.
+.     3     Jaroslav Cipak                  500425    BC.
+.     4     Robert Mazur                    500427    BC.
+.     5     Peter Stelbasky                 500428    BC.
+.     6     Peter Minarik                   500429    BC.
+.     7     Zdenko Olzbut                   500432 F  BC.
+.     Predmet:8     BI27       Umela inteligencia                                           Garant: Stefan Kovalik
+.     1     Peter Stelbasky                 500428    BC.
+.     Predmet:9     IN07       Prenos signalu                                               Garant: Jozef Juricek
+.     1     Alojz Gazo                      500426 D  BC.
+.     2     Robert Mazur                    500427 E  BC.
+.     3     Peter Minarik                   500429 E  BC.
+.     4     Peter Korenciak                 500430 D  BC.
+.     5     Zdenko Olzbut                   500432 B  BC.
+.     Predmet:10     IPM2       Projekt 2                                                    Garant:   ?
+.     1     Zoltan Sim                      500431    BC.
+.     Predmet:11     IPN2       Projekt 2                                                    Garant: Martin Klimo
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:12     IS07       Distribuovane systemy                                        Garant: Katarina Bachrata
+.     1     Martin Skuta                    500422 E  BC.
+.     Predmet:13     A802       Komunikacne pocitace                                         Garant: Martin Klimo
+.     1     Peter Korenciak                 500430 F  BC.
+.     Predmet:14     SI28       Informacne systemy                                           Garant:   ?
+.     1     Robert Mazur                    500427 A  BC.
+.     2     Peter Stelbasky                 500428 B  BC.
+.     Predmet:15     IA02       Teoria informacie                                            Garant: Petr Ivaniga
+.     1     Dusan Bucany                    500439 B  BC.
+.     2     Robert Mazur                    500427 A  BC.
+.     3     Peter Korenciak                 500430 F  BC.
+.     4     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:16     IE08       Ekonometria                                                  Garant: Stefan Hitmar
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:17     II03       Databazove jazyky                                            Garant: Karol Matiasko
+.     1     Martin Kluciar                  501333    BC.
+.     2     Zdenko Olzbut                   500432 F  BC.
+.     3     Miroslav Gmuca                  500438 B  BC.
+.     4     Dusan Bucany                    500439 A  BC.
+.     Predmet:18     II17       Kryptografia a bezpecnost                                    Garant: Peter Varsa
+.     1     Martin Skuta                    500422 D  BC.
+.     2     Lubomir Kominek                 500424 D  BC.
+.     3     Jaroslav Cipak                  500425 E  BC.
+.     4     Robert Mazur                    500427 C  BC.
+.     5     Peter Stelbasky                 500428 B  BC.
+.     6     Peter Minarik                   500429 D  BC.
+.     7     Zdenko Olzbut                   500432 D  BC.
+.     Predmet:19     IN05       Sietove architektury                                         Garant: Martin Klimo
+.     1     Martin Skuta                    500422 C  BC.
+.     2     Lubomir Kominek                 500424 E  BC.
+.     3     Jaroslav Cipak                  500425 E  BC.
+.     4     Robert Mazur                    500427 E  BC.
+.     5     Peter Stelbasky                 500428 A  BC.
+.     6     Peter Minarik                   500429    BC.
+.     7     Zdenko Olzbut                   500432 A  BC.
+.     Predmet:20     IS03       Architektury informacnych systemov                           Garant: Anton Kremen
+.     1     Dusan Bucany                    500439 A  BC.
+.     2     Peter Minarik                   500429 C  BC.
+.     3     Peter Korenciak                 500430 C  BC.
+.     4     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:21     BI31       Databazove systemy - Access                                  Garant: Stefan Kovalik
+.     1     Miroslav Gmuca                  500438 D  BC.
+.     Predmet:22     BM10       Manazment                                                    Garant: Margita Behanova
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:23     BS02       Manazerske informacme systemy                                Garant: Stefan Hitmar
+.     1     Zoltan Sim                      500431 C  BC.
+.     Predmet:24     II08       Diskretna simulacia                                          Garant: Jiri Slavik
+.     1     Dusan Bucany                    500439 A  BC.
+.     2     Lubomir Kominek                 500424 F  BC.
+.     3     Jaroslav Cipak                  500425 E  BC.
+.     4     Peter Stelbasky                 500428 C  BC.
+.     5     Peter Minarik                   500429    BC.
+.     6     Peter Korenciak                 500430 F  BC.
+.     7     Zdenko Olzbut                   500432 C  BC.
+.     8     Miroslav Gmuca                  500438 C  BC.
+.     Predmet:25     II12       Databazy a ziskanie znalosti                                 Garant: Karol Matiasko
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Lubomir Kominek                 500424 E  BC.
+.     3     Zdenko Olzbut                   500432 F  BC.
+.     4     Miroslav Gmuca                  500438 C  BC.
+.     Predmet:26     II15       Udajove struktury 2                                          Garant: Peter Varsa
+.     1     Dusan Bucany                    500439 F  BC.
+.     2     Lubomir Kominek                 500424 F  BC.
+.     3     Jaroslav Cipak                  500425    BC.
+.     4     Robert Mazur                    500427 E  BC.
+.     5     Peter Stelbasky                 500428 D  BC.
+.     6     Peter Minarik                   500429    BC.
+.     7     Zdenko Olzbut                   500432 F  BC.
+.     8     Miroslav Gmuca                  500438 B  BC.
+.     Predmet:27     IN08       Komunikacne systemy                                          Garant: Peter Gubis
+.     1     Zoltan Sim                      500431 D  BC.
+.     Predmet:28     IPM1       Projekt 1                                                    Garant:   ?
+.     1     Zoltan Sim                      500431    BC.
+.     Predmet:29     BE04       Zaklady elektronickeho obchodu                               Garant: Petr Ivaniga
+.     1     Peter Korenciak                 500430 F  BC.
+.     Predmet:30     BH21       Technicke prostriedky PC                                     Garant: Peter Gubis
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:31     BI23       Objektove programovanie                                      Garant: Elena Farkasova
+.     1     Peter Korenciak                 500430 F  BC.
+.     Predmet:32     BN12       Sirokopasmove siete                                          Garant: Petr Ivaniga
+.     1     Peter Korenciak                 500430 F  BC.
+.     2     Miroslav Gmuca                  500438 F  BC.
+.     Predmet:33     II14       Pocitacova grafika                                           Garant: Petr Cenek
+.     1     Dusan Bucany                    500439 F  BC.
+.     2     Lubomir Kominek                 500424 F  BC.
+.     3     Zdenko Olzbut                   500432 F  BC.
+.     Predmet:34     IM14       Manazment kvality - pristupy a metody TQM                    Garant: Katarina Zabovska
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:35     IM15       Medzinarodny marketing                                       Garant: Katarina Zabovska
+.     1     Zoltan Sim                      500431 B  BC.
+.     Predmet:36     IM16       Marketingovy vyskum                                          Garant: Katarina Zabovska
+.     1     Zoltan Sim                      500431 B  BC.
+.     Predmet:37     IM19       Operacny manazment                                           Garant: Katarina Zabovska
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:38     IN09       Optimalizacia sieti                                          Garant: Petr Cenek
+.     1     Dusan Bucany                    500439 E  BC.
+.     2     Alojz Gazo                      500426 D  BC.
+.     3     Peter Minarik                   500429    BC.
+.     4     Peter Korenciak                 500430 F  BC.
+.     5     Miroslav Gmuca                  500438 C  BC.
+.     Predmet:39     IS04       Analyza procesov                                             Garant: Jozef Juricek
+.     1     Jaroslav Cipak                  500425 E  BC.
+.     2     Alojz Gazo                      500426 E  BC.
+.     3     Peter Korenciak                 500430 F  BC.
+.     Predmet:40     IS06       Geograficke informacne systemy                               Garant: Petr Cenek
+.     1     Dusan Bucany                    500439 F  BC.
+.     2     Alojz Gazo                      500426 F  BC.
+.     Predmet:41     IN03       Integracia sieti                                             Garant: Stefan Kovalik
+.     1     Lubomir Kominek                 500424 D  BC.
+.     2     Jaroslav Cipak                  500425 B  BC.
+.     3     Alojz Gazo                      500426 C  BC.
+.     4     Robert Mazur                    500427 D  BC.
+.     5     Peter Stelbasky                 500428 A  BC.
+.     6     Peter Minarik                   500429    BC.
+.     7     Peter Korenciak                 500430 F  BC.
+.     8     Zdenko Olzbut                   500432 C  BC.
+.     Predmet:42     IP07       Projektovanie sieti                                          Garant: Stefan Kovalik
+.     1     Lubomir Kominek                 500424 E  BC.
+.     2     Jaroslav Cipak                  500425 C  BC.
+.     3     Alojz Gazo                      500426 A  BC.
+.     4     Robert Mazur                    500427 A  BC.
+.     5     Peter Stelbasky                 500428 A  BC.
+.     6     Peter Minarik                   500429 C  BC.
+.     7     Peter Korenciak                 500430 C  BC.
+.     8     Zdenko Olzbut                   500432 F  BC.
+.     Predmet:43     IPA3       Projekt 3                                                    Garant: Karol Matiasko
+.     1     Martin Skuta                    500422    BC.
+.     Predmet:44     IS05       Aplikacie geografickych informacnych systemov v riadeni      Garant: Petr Cenek
+.     1     Lubomir Kominek                 500424 F  BC.
+.     Predmet:45     SI31       Informacno-komunikacne siete                                 Garant:   ?
+.     1     Robert Mazur                    500427 C  BC.
+.     2     Peter Stelbasky                 500428 B  BC.
+.     Predmet:46     BA14       Pravdepodobnost a statistika 2                               Garant: Stefan Kovalik
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Peter Minarik                   500429    BC.
+.     3     Peter Korenciak                 500430 F  BC.
+.     4     Miroslav Gmuca                  500438 B  BC.
+.     Predmet:47     BE13       Marketing 1                                                  Garant: Stefan Hitmar
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:48     BF07       Elektronika                                                  Garant: Peter Gubis
+.     1     Martin Kluciar                  501333 E  BC.
+.     2     Branislav Balaz                 501567 A  BC.
+.     Predmet:49     BF12       Matematicka analyza 2.                                       Garant: Michal Kaukic
+.     1     Zoltan Sim                      500431 E  BC.
+.     Predmet:50     BI06       Zaklady databazovych systemov                                Garant: Stefan Kovalik
+.     1     Zdeno Svetkovsky                501003    BC.
+.     2     Rastislav Kontros               501559    BC.
+.     3     Peter Korenciak                 500430 F  BC.
+.     4     Zoltan Sim                      500431 D  BC.
+.     Predmet:51     BI28       Jazyk UML                                                    Garant: Emil Krsak
+.     1     Branislav Balaz                 501319 C  BC.
+.     Predmet:52     BS03       Softverove inzinierstvo                                      Garant: Emil Krsak
+.     1     Zdeno Svetkovsky                501003 A  BC.
+.     2     Zoltan Sim                      500431 E  BC.
+.     Predmet:53     IE01       Teoria podniku                                               Garant: Rudolf Kodnar
+.     1     Martin Skuta                    500422 E  BC.
+.     2     Zoltan Sim                      500431 C  BC.
+.     Predmet:54     IPA1       Projekt 1                                                    Garant: Karol Matiasko
+.     1     Dusan Bucany                    500439    BC.
+.     2     Miroslav Gmuca                  500438    BC.
+.     Predmet:55     IPA2       Projekt 2                                                    Garant: Karol Matiasko
+.     1     Dusan Bucany                    500439    BC.
+.     2     Miroslav Gmuca                  500438    BC.
+.     Predmet:56     IPN1       Projekt 1                                                    Garant: Martin Klimo
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:57     IPN3       Projekt 3                                                    Garant: Martin Klimo
+.     1     Jaroslav Cipak                  500425    BC.
+.     2     Alojz Gazo                      500426    BC.
+.     3     Robert Mazur                    500427    BC.
+.     4     Peter Stelbasky                 500428    BC.
+.     5     Zdenko Olzbut                   500432    BC.
+.     Predmet:58     IZ01       Diplomova praca                                              Garant:   ?
+.     1     Robert Mazur                    500427 B  BC.
+.     2     Peter Stelbasky                 500428 B  BC.
+.     Predmet:59     IZ99       Celkovy vysledok zaverecnej skusky                           Garant:   ?
+.     1     Robert Mazur                    500427 B  BC.
+.     2     Peter Stelbasky                 500428 B  BC.
+Akademicky rok: 2007/2008
+.     Predmet:1     BI29       Zaklady programovania vo Windows                             Garant: Stefan Kovalik
+.     1     Alojz Gazo                      500426 F  BC.
+.     Predmet:2     BM11       Projektovy manazment                                         Garant: Peter Varsa
+.     1     Zoltan Sim                      500431 C  BC.
+.     Predmet:3     BS10       Vyvoj aplikacii pre internet a intranet                      Garant: Peter Varsa
+.     1     Dusan Bucany                    500439 B  BC.
+.     Predmet:4     II07       Databazove systemy 2                                         Garant: Stefan Kovalik
+.     1     Dusan Bucany                    500439 D  BC.
+.     2     Jaroslav Cipak                  500425    BC.
+.     3     Peter Korenciak                 500430    BC.
+.     Predmet:5     IN10       Teoria informacnych sieti                                    Garant: Stefan Kovalik
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:6     IP05       Prax                                                         Garant:   ?
+.     1     Dusan Bucany                    500439    BC.
+.     2     Martin Skuta                    500422    BC.
+.     3     Lubomir Kominek                 500424    BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426    BC.
+.     6     Peter Minarik                   500429    BC.
+.     7     Zoltan Sim                      500431    BC.
+.     8     Zdenko Olzbut                   500432    BC.
+.     9     Miroslav Gmuca                  500438    BC.
+.     Predmet:7     IE11       Prognostika                                                  Garant: Stefan Kovalik
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:8     IPM3       Projekt 3                                                    Garant:   ?
+.     1     Zoltan Sim                      500431    BC.
+.     Predmet:9     IPN2       Projekt 2                                                    Garant: Martin Klimo
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:10     IS07       Distribuovane systemy                                        Garant: Katarina Bachrata
+.     1     Dusan Bucany                    500439 E  BC.
+.     2     Miroslav Gmuca                  500438 B  BC.
+.     Predmet:11     BL17       Jazyk anglicky 3.                                            Garant: Elena Farkasova
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:12     SI28       Informacne systemy                                           Garant:   ?
+.     1     Dusan Bucany                    500439 B  BC.
+.     2     Martin Skuta                    500422 A  BC.
+.     3     Lubomir Kominek                 500424 B  BC.
+.     4     Alojz Gazo                      500426 D  BC.
+.     5     Zdenko Olzbut                   500432 A  BC.
+.     6     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:13     SI36       Informacna podpora manazmentu                                Garant:   ?
+.     1     Zoltan Sim                      500431 B  BC.
+.     Predmet:14     BS07       Multimedialne informacne systemy                             Garant: Peter Varsa
+.     1     Alojz Gazo                      500426 D  BC.
+.     2     Peter Korenciak                 500430    BC.
+.     Predmet:15     IA02       Teoria informacie                                            Garant: Petr Ivaniga
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:16     II17       Kryptografia a bezpecnost                                    Garant: Peter Varsa
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Martin Kluciar                  501333    BC.
+.     3     Alojz Gazo                      500426 E  BC.
+.     4     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:17     IL02       Sudne inzinierstvo 2                                         Garant: Stefan Kovalik
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:18     IN05       Sietove architektury                                         Garant: Martin Klimo
+.     1     Dusan Bucany                    500439 A  BC.
+.     2     Alojz Gazo                      500426 B  BC.
+.     3     Peter Minarik                   500429 D  BC.
+.     4     Miroslav Gmuca                  500438 B  BC.
+.     Predmet:19     SI37       Rozvoj manazmentu podniku                                    Garant: Katarina Zabovska
+.     1     Zoltan Sim                      500431 D  BC.
+.     Predmet:20     BL18       Jazyk anglicky 4.                                            Garant:   externistka
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:21     BS02       Manazerske informacme systemy                                Garant: Stefan Hitmar
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:22     II08       Diskretna simulacia                                          Garant: Jiri Slavik
+.     1     Lubomir Kominek                 500424 D  BC.
+.     2     Peter Minarik                   500429 C  BC.
+.     3     Peter Korenciak                 500430    BC.
+.     Predmet:23     II15       Udajove struktury 2                                          Garant: Peter Varsa
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Lubomir Kominek                 500424 E  BC.
+.     3     Jaroslav Cipak                  500425    BC.
+.     4     Peter Minarik                   500429 E  BC.
+.     5     Peter Korenciak                 500430    BC.
+.     6     Zdenko Olzbut                   500432 B  BC.
+.     Predmet:24     SI30       Aplikovana informatika                                       Garant:   ?
+.     1     Dusan Bucany                    500439 A  BC.
+.     2     Martin Skuta                    500422 A  BC.
+.     3     Miroslav Gmuca                  500438 C  BC.
+.     Predmet:25     IL01       Sudne inzinierstvo 1                                         Garant: Stefan Kovalik
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:26     IM17       Organizacne spravanie                                        Garant: Petr Cenek
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:27     IN09       Optimalizacia sieti                                          Garant: Petr Cenek
+.     1     Peter Minarik                   500429 D  BC.
+.     Predmet:28     IP09       Projektovanie manazerskych systemov                          Garant: Jozef Striss
+.     1     Zoltan Sim                      500431 C  BC.
+.     Predmet:29     IS04       Analyza procesov                                             Garant: Jozef Juricek
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:30     IN03       Integracia sieti                                             Garant: Stefan Kovalik
+.     1     Peter Minarik                   500429 D  BC.
+.     2     Peter Korenciak                 500430    BC.
+.     Predmet:31     IPA3       Projekt 3                                                    Garant: Karol Matiasko
+.     1     Dusan Bucany                    500439    BC.
+.     2     Martin Skuta                    500422    BC.
+.     3     Miroslav Gmuca                  500438    BC.
+.     Predmet:32     SI31       Informacno-komunikacne siete                                 Garant:   ?
+.     1     Lubomir Kominek                 500424 C  BC.
+.     2     Alojz Gazo                      500426 D  BC.
+.     3     Zdenko Olzbut                   500432 A  BC.
+.     Predmet:33     BA14       Pravdepodobnost a statistika 2                               Garant: Stefan Kovalik
+.     1     Peter Minarik                   500429    BC.
+.     Predmet:34     BI06       Zaklady databazovych systemov                                Garant: Stefan Kovalik
+.     1     Zdeno Svetkovsky                501003 E  BC.
+.     Predmet:35     IE01       Teoria podniku                                               Garant: Rudolf Kodnar
+.     1     Dusan Bucany                    500439 D  BC.
+.     2     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:36     IM09       Strategicky manazment                                        Garant: Stefan Hitmar
+.     1     Zoltan Sim                      500431 A  BC.
+.     Predmet:37     IPN1       Projekt 1                                                    Garant: Martin Klimo
+.     1     Peter Korenciak                 500430    BC.
+.     Predmet:38     IPN3       Projekt 3                                                    Garant: Martin Klimo
+.     1     Lubomir Kominek                 500424    BC.
+.     2     Jaroslav Cipak                  500425    BC.
+.     3     Alojz Gazo                      500426    BC.
+.     Predmet:39     IZ01       Diplomova praca                                              Garant:   ?
+.     1     Dusan Bucany                    500439 C  BC.
+.     2     Martin Skuta                    500422 A  BC.
+.     3     Lubomir Kominek                 500424 C  BC.
+.     4     Jaroslav Cipak                  500425    BC.
+.     5     Alojz Gazo                      500426 B  BC.
+.     6     Zoltan Sim                      500431 B  BC.
+.     7     Zdenko Olzbut                   500432 C  BC.
+.     8     Miroslav Gmuca                  500438 A  BC.
+.     Predmet:40     IZ99       Celkovy vysledok zaverecnej skusky                           Garant:   ?
+.     1     Dusan Bucany                    500439 B  BC.
+.     2     Martin Skuta                    500422 B  BC.
+.     3     Lubomir Kominek                 500424 C  BC.
+.     4     Alojz Gazo                      500426 C  BC.
+.     5     Zoltan Sim                      500431 C  BC.
+.     6     Zdenko Olzbut                   500432 B  BC.
+.     7     Miroslav Gmuca                  500438 B  BC.
+Akademicky rok: 2008/2009
+.     Predmet:1     BI11       Praktikum z programovania 1.                                 Garant:   externistka
+.     Predmet:2     BA10       Teoria rozvrhov                                              Garant: Michal Kaukic
+.     1     Andrej Janci                    501448 D  BC.
+.     Predmet:3     BI01       Zaklady informatiky 1                                        Garant: Stefan Kovalik
+.     1     Marek Ratroch                   550545 A  BC.
+.     Predmet:4     BI03       C-jazyk                                                      Garant: Stefan Kovalik
+.     1     Andrej Janci                    501448    BC.
+.     Predmet:5     BI02       Zaklady informatiky 2                                        Garant: Stefan Kovalik
+.     1     Marek Ratroch                   550545 A  BC.
+.     Predmet:6     BI23       Objektove programovanie                                      Garant: Elena Farkasova
+.     1     Andrej Janci                    501448 C  BC.
+
+
+PL/SQL procedure successfully completed.
+
