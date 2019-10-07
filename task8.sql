@@ -1,52 +1,80 @@
---1) parameters
---2) dlzka
---3) skuska or zapocet
---4) format and to login.txt
-SELECT * FROM student;
-SET SERVEROUTPUT ON
+CREATE OR REPLACE DIRECTORY LOG AS 'D:\login';
+GRANT WRITE ON DIRECTORY LOG TO PUBLIC; 
+SET SERVEROUTPUT ON FORMAT WRAPPED
 CREATE OR REPLACE PROCEDURE make_report
 IS
 CURSOR outer_cur IS
         SELECT DISTINCT skrok
         FROM zap_predmety
         ORDER BY skrok;
+-- cursor with parameter
+CURSOR inner_cur (syear number) IS
+        SELECT DISTINCT cis_predm, nazov, meno, CASE 
+                                                --some subjects don't have them
+                                                WHEN priezvisko = 'Garant' THEN '?'
+                                                ELSE priezvisko
+                                                END
+            FROM predmet_bod JOIN predmet USING (cis_predm)
+            JOIN ucitel ON (predmet_bod.garant = ucitel.os_cislo)
+            WHERE skrok = syear;
 tmp1 number := 0;
 ind number := 0;
 inner_ind number := 0;
+subject_id char(4);
+subject_name varchar(180);
+teacher_name varchar2(15);
+teacher_surname varchar2(30);
+output UTL_FILE.FILE_TYPE;
 BEGIN  
+    output := UTL_FILE.FOPEN('LOG', 'login.txt' , 'W');
     OPEN outer_cur;
     LOOP
     FETCH outer_cur INTO tmp1;
     EXIT WHEN outer_cur%NOTFOUND;
     DBMS_OUTPUT.PUT_LINE('Akademicky rok: ' || tmp1 || '/' || (tmp1+1));
+    UTL_FILE.PUT_LINE(output , 'Akademicky rok: ' || tmp1 || '/' || (tmp1+1));
         ind := 0;
-        FOR tmp2 in 
-        (SELECT DISTINCT cis_predm, nazov, meno, priezvisko
-            FROM predmet_bod JOIN predmet USING (cis_predm)
-            JOIN ucitel ON (predmet_bod.garant = ucitel.os_cislo)
-            WHERE skrok = tmp1
-            )
+        OPEN inner_cur(tmp1);
         LOOP
+        FETCH inner_cur INTO subject_id, subject_name, teacher_name, teacher_surname;
+        EXIT WHEN inner_cur%NOTFOUND;
         ind := ind + 1;
-            DBMS_OUTPUT.PUT_LINE('.     Predmet:' || ind || '     ' || tmp2.cis_predm || '       ' || tmp2.nazov
-            || '        Garant: ' || tmp2.meno || ' ' || tmp2.priezvisko);
+            DBMS_OUTPUT.PUT_LINE('.     Predmet:' || ind || '     ' || subject_id || '       ' || rpad(subject_name, 60)
+            || ' Garant: ' || teacher_name || ' ' || teacher_surname);
+            UTL_FILE.PUT_LINE(output , '.     Predmet:' || ind || '     ' || subject_id || '       ' || rpad(subject_name, 60)
+            || ' Garant: ' || teacher_name || ' ' || teacher_surname);
             inner_ind := 0;
             FOR tmp3 in 
-            (SELECT meno, priezvisko, os_cislo, vysledok
+            (SELECT meno, priezvisko, os_cislo, 
+                    CASE 
+                    WHEN vysledok IS NOT NULL THEN vysledok
+                    ELSE ' '
+                    END AS grade,
+                    CASE
+                    WHEN rocnik IN (0, 1, 2, 3) THEN 'BC.'
+                    WHEN rocnik IN (4, 5) THEN 'Ing.'
+                    ELSE ''
+                    END AS title
                 FROM zap_predmety JOIN student USING (os_cislo)
                 JOIN os_udaje USING (rod_cislo)
-                WHERE skrok = tmp1 AND cis_predm = tmp2.cis_predm
+                WHERE skrok = tmp1 AND cis_predm = subject_id
                 )
             LOOP
             inner_ind := inner_ind + 1;
-                DBMS_OUTPUT.PUT_LINE('.     ' || inner_ind || '     ' || tmp3.meno || ' ' || tmp3.priezvisko
-                || '        ' || tmp3.os_cislo || ' ' || tmp3.vysledok);
+                DBMS_OUTPUT.PUT_LINE('.     ' || inner_ind || '     ' 
+                || rpad(CONCAT(tmp3.meno, CONCAT(' ', tmp3.priezvisko)), 30)
+                || '  ' || tmp3.os_cislo || ' ' || tmp3.grade || '  ' || tmp3.title);
+                UTL_FILE.PUT_LINE(output , '.     ' || inner_ind || '     ' 
+                || rpad(CONCAT(tmp3.meno, CONCAT(' ', tmp3.priezvisko)), 30)
+                || '  ' || tmp3.os_cislo || ' ' || tmp3.grade || '  ' || tmp3.title);
             END LOOP;
             
         END LOOP;
+        CLOSE inner_cur;
     END LOOP;
     CLOSE outer_cur;
-END; 
+    UTL_FILE.FCLOSE(output);
+END;
 /
 BEGIN
     make_report;
